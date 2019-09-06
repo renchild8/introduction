@@ -47,5 +47,5 @@ https://renchild.hatenablog.com/
 ・社内のApple Developer Program の証明書、デバイス、ユーザーの管理。  
 ・AppStoreでのリリース。  
 ・SwiftLintの導入。  
-・Bitrise, Fabric Betaを用いた配布の自動化。  
+・Bitrise、Fabric Betaを用いた配布の自動化。  
 
