@@ -7,7 +7,7 @@ renchild8
 https://twitter.com/renchild8  
 https://qiita.com/renchild8  
 https://github.com/renchild8  
-https://renchild.hatenablog.com/  
+https://renchild.hatenablog.com  
 
 
 # ストレングスファインダー
@@ -16,8 +16,8 @@ https://renchild.hatenablog.com/
 
 
 # プロジェクト経験
-・基本設計から製造、テストを経験。  
-・自社内での受託開発をメインとしてのシステム開発を経験。  
+・基本設計から製造、テストを経験  
+・自社内での受託開発をメインとしてのシステム開発を経験  
 
 
 # 好きなこと
@@ -41,11 +41,11 @@ https://renchild.hatenablog.com/
 
 
 # 実績
-・RFIDリーダーを用いた在庫管理アプリの開発。  
-・iBeaconを用いたスタンプラリーアプリの開発。  
-・ICカードリーダーを用いた会議室状態管理アプリ開発。  
-・社内のApple Developer Program の証明書、デバイス、ユーザーの管理。  
-・AppStoreでのリリース。  
-・SwiftLintの導入。  
-・Bitrise、Fabric Betaを用いた配布の自動化。  
+・RFIDリーダーを用いた在庫管理アプリの開発  
+・iBeaconを用いたスタンプラリーアプリの開発  
+・ICカードリーダーを用いた会議室状態管理アプリ開発  
+・社内のApple Developer Program の証明書、デバイス、ユーザーの管理  
+・AppStoreでのリリース  
+・SwiftLintの導入  
+・Bitrise、Fabric Betaを用いた配布の自動化  
 
