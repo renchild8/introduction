@@ -7,6 +7,7 @@ renchild8
 https://twitter.com/renchild8  
 https://qiita.com/renchild8  
 https://github.com/renchild8  
+https://speakerdeck.com/renchild8  
 https://renchild.hatenablog.com  
 
 
