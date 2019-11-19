@@ -1,4 +1,3 @@
-
 # 名前
 renchild8
 
@@ -36,9 +35,10 @@ https://renchild.hatenablog.com
 
 
 # 技術スキル
-・言語：Swift (RxSwift, RxCocoa, Moya) , JavaScript , Google Apps Script  
-・OS：macOS (Catalina, Mojave, High Sierra)  
-・使用ツール：Xcode, GitHub, GitLab, Bitrise, SwiftLint, Fabric Beta, Firebase, Adobe XD  
+・言語： Swift, JavaScript, Google Apps Script  
+・使用ライブラリ： RxSwift, Alamofire, Moya, APIKit, SwiftLint, Fabric Beta, Firebase(Remote Config, Log Event)  
+・OS： macOS (Catalina, Mojave, High Sierra)  
+・使用ツール： Xcode, GitHub, GitLab, Bitrise, Adobe XD  
 
 
 # 実績
@@ -49,4 +49,3 @@ https://renchild.hatenablog.com
 ・AppStoreでのリリース  
 ・SwiftLintの導入  
 ・Bitrise、Fabric Betaを用いた配布の自動化  
-
