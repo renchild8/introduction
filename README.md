@@ -32,7 +32,7 @@ renchild8
 ・未来に希望が持てない状況  
 
 # 技術スキル
-・技術領域: iOS App
+・技術領域: iOS App  
 ・言語： Swift  
 ・使用ライブラリ： RxSwift, Alamofire, Moya, APIKit, SwiftLint, Firebase(Remote Config, Log Event)  
 ・使用ツール： Xcode, GitHub, GitLab, Bitrise, Adobe XD, Figma  
